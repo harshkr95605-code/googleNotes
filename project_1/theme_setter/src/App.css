@@ -1,0 +1,11 @@
+.dark-mode{
+background-color: black;
+color:white;
+min-height:100vh;
+}
+
+.light-mode{
+background-color: red;
+color:black;
+min-height:100vh;
+}
